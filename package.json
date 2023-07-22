@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Bryan-an/curso-node-midudev/issues"
   },
-  "homepage": "https://github.com/Bryan-an/curso-node-midudev#readme"
+  "homepage": "https://github.com/Bryan-an/curso-node-midudev#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
 }
