@@ -1,0 +1,25 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de Node por $0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan-an/curso-node-midudev.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "midudev"
+  ],
+  "author": "Bryan Andagoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan-an/curso-node-midudev/issues"
+  },
+  "homepage": "https://github.com/Bryan-an/curso-node-midudev#readme"
+}
