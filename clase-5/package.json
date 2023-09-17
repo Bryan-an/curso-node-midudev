@@ -5,7 +5,9 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start:mysql": "nodemon server-with-mysql.js",
+    "start:local": "nodemon server-with-local.js"
   },
   "keywords": [],
   "author": "",
